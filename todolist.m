@@ -4,9 +4,9 @@
 - **Company Name:** ARTS HOUSE Services Sarl
 - **Directory:** arts_house_services_sarl
 - **Address/Contact:** 
-  - Architecture int/ext et culturel , travaux de finissions du b�timent , commerce d'oeuvres d'arts
+  - Architecture int/ext et culturel , travaux de finissions du bétiment , commerce d'oeuvres d'arts
   - 
-  - Page � Cabinet d�architecture d�int�rieur � Boutique d�art et d�artisanat
+  - Page é Cabinet déarchitecture déintérieur é Boutique déart et déartisanat
   - 
   - Bonamoussadi, Douala, Cameroon
   - 
